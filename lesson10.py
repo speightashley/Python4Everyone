@@ -22,3 +22,5 @@ newlist = sorted(newlist)
 
 for val, key in newlist:
     print(val, key)
+
+print(newlist)
