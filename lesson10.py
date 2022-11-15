@@ -20,7 +20,7 @@ for k, v in emptydict.items():
 
 newlist = sorted(newlist)
 
-for val, key in newlist:
+for val, key in newlist
     print(val, key)
 
 print(newlist)
