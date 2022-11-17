@@ -13,3 +13,4 @@ for x in range(len(data_json['comments'])):
     total += int(data_json['comments'][x]['count'])
 
 print(total)
+# comment for comments sake
